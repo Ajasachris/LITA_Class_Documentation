@@ -1,6 +1,6 @@
 # LITA PROJECT
 
-### Project Title: Data Analysis
+### Project Title: Sales Data Analysis
 
 ### Project Overview
 ---
@@ -17,6 +17,7 @@ The primary source of Data used here is Data sale.csv and this an open source da
 
 ### Tools used
 ---
+- Data analysis: The data was analyzed using Microsoft Excel utilizing Pivot Table to organize, summarised, filter the data, for easy interpretation.
 
 - Microsoft Excel [Download Here](https://www.microsoft.com)
   1. For Data Cleaning
@@ -25,6 +26,8 @@ The primary source of Data used here is Data sale.csv and this an open source da
      
 - SQL - Structure Query Language for querying Data
 - GitHub for Portfolio building
+### Method used
+
 
 ### Data Cleaning and Preparations
 ---
