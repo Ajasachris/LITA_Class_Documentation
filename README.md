@@ -12,46 +12,49 @@ Transforming of raw data into actionable insights and knowledge and analyzing an
 
 ### Data source
 ---
-
-The primary source of Data used here is Data sale.csv and this an open source data that can be freely downloaded from an open source online as kaggle or fred or any other data repository site.
+The dataset includes the following key columns.
+1. Region: the geographical area where the store operates
+2. Market: the specific market segment within the region
+3. Store: individual store from which sales data is collected
+4. Trade date: the particular date transaction was made
+5. Fiscal period: fiscal quater to which trade belong
+6. Model: the product model being sold
+7. Line of business: the business line under which the sales falls
+8. Day: the day of the week of transaction
+9. Category: the category of item e.g electronics
+10. Revenue: the monetary value generated from the sales
+11. Units sold: the number of units sold for a given transaction
+12. Transaction Category: a classification of transaction
 
 ### Tools used
 ---
 - Data analysis: The data was analyzed using Microsoft Excel utilizing Pivot Table to organize, summarised, filter the data, for easy interpretation.
 
-- Microsoft Excel [Download Here](https://www.microsoft.com)
-  1. For Data Cleaning
-  2. For Analysis
-  3. For Data Visualization
-     
-- SQL - Structure Query Language for querying Data
-- GitHub for Portfolio building
-### Method used
-
-
-### Data Cleaning and Preparations
+#### Project Ogbjective
 ---
+This project was designed to address the following analysis goals
+- Revenue by Region: determine the total revenue generated in each region
+- Region by units sold: Analyse the number of units sold across the regions to identify the highest-selling locations
+- Average revenue by region: calculate the average revenue per sale in each region to assess performance
 
-In the initial phase of Data cleaning and preparations, we performed the following actions;
-1. Data loading and inspection
-2. Handling missing variable
-3. Data cleaning and formatting
+### How to use the Data
+- Revenue by region: group the data by region and sum the revenue column. This provides an overview of how much revenue each region is generating.
+- Units sold by region: group the data by region and sum the uints sold to identify which regions are moving the most products.
+- Average revenue by region: to get the average revenue per transaction or units sold in a region use the formular 
 
-### Exploratory Data Analysis
+  ### Fromular used
+  ---
+  Average Revenue = Total Revenue / Units Sold
+
+### Tools and Method use
 ---
-EDA involved exploring of data to answer some questions data such as;
-- What is the overall sales trend
-- Which products are top seller
-- What are the products on peak sales?
+- Data Analysis: the data was analyzed using Microsoft excel using pivot tables to organize, summarize and filter data for easier interpertation.
+- Data Visualization: Bar chart were created in excel to visually represent key insights
 
-### Data Analysis
----
-This is where we include some basic lines of code or queries or even some of DAX expressions used during analysis
 
-```SQL
-SELECT * FROM TABLE1
-WHERE CONDITION = TRUE
-```
+
+
+
 ### Data Visualization
 ---
 
