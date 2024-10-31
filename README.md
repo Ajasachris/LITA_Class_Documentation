@@ -21,7 +21,7 @@ The dataset includes the following key columns.
 6. Model: the product model being sold
 7. Line of business: the business line under which the sales falls
 8. Day: the day of the week of transaction
-9. Category: the category of item e.g electronics
+9. Category: the category of item e.g Printer
 10. Revenue: the monetary value generated from the sales
 11. Units sold: the number of units sold for a given transaction
 12. Transaction Category: a classification of transaction
