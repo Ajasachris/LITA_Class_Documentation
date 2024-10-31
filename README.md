@@ -51,13 +51,9 @@ This project was designed to address the following analysis goals
 - Data Analysis: the data was analyzed using Microsoft excel using pivot tables to organize, summarize and filter data for easier interpertation.
 - Data Visualization: Bar chart were created in excel to visually represent key insights
 
-
-
-
-
-### Data Visualization
+### Visual analysis
 ---
 
-![Screenshot 2024-10-11 185300](https://github.com/user-attachments/assets/a1617bd2-a21f-46ac-b640-501c738e5709)
 
-![Screenshot 2024-10-11 185932](https://github.com/user-attachments/assets/c4e2eb78-dd02-4a27-a43e-ec98cfcac493)
+
+
