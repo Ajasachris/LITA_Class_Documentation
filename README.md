@@ -45,6 +45,7 @@ This project was designed to address the following analysis goals
   ### Fromular used
   ---
   Average Revenue = Total Revenue / Units Sold
+  
 
 ### Tools and Method use
 ---
@@ -53,7 +54,12 @@ This project was designed to address the following analysis goals
 
 ### Visual analysis
 ---
+1. Revenue by Region
 
+   Pivot Table:
+   
+![Screenshot 2024-10-31 091851](https://github.com/user-attachments/assets/e8814367-8506-43b8-9410-3f4a3e08a496)
 
+Filtered Chart:
 
-
+![Screenshot 2024-10-31 093018](https://github.com/user-attachments/assets/8428a228-c7fe-4e6d-9455-2c7ceabd6427)
